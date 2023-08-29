@@ -29,16 +29,16 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1275094904725782528/U18Kdfkp_400x400.jpg" group-title="All",OTV
 https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Premaya News7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NEWS_7.png" group-title="All",Premaya News7
-https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+https://server.livelegitpro.in:9899/prameyanews7/prameyanews7/index.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/1920px-Republic_Bharat_logo.svg.png" group-title="All",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/webliverb/master.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/800px-Republic_TV.svg.png" group-title="All",Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="All",Times Now
-https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/64e3505b-8184-4276-9028-15985b0944a4:SIN/master.m3u8
+https://d1irnksb81zh0b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Times Now Navbharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Times_Now_Navbharat_Logo.jpg" group-title="All",Times Now Navbharat
-https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/4a46a696-906b-46fd-9b87-5230e4099aaf:SIN/master.m3u8
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Zee Business" tvg-logo="https://pbs.twimg.com/profile_images/1072023698985705473/YftYvcTj_400x400.jpg" group-title="All",Zee Business
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_1.m3u8
+https://dwby15d04agvq.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTMzMzEyODZ9.udC1LYaU-Atckfik7vk7A1ywO--me3l_BBhVRUQa2rI
 #EXTINF:-1 tvg-id="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1280px-Zee_news.svg.png" group-title="All",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTMzMzE0MTh9.KQC9Moe4JvfkpI95uycjRa8dtpHzI7UfTFt3sxaFBNM
