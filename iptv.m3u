@@ -27,7 +27,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="News18 Odia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/News18_Odia_logo.jpg" group-title="All",News18 Odia
 https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1275094904725782528/U18Kdfkp_400x400.jpg" group-title="All",OTV
-https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
+https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Premaya News7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NEWS_7.png" group-title="All",Premaya News7
 https://server.livelegitpro.in:9899/prameyanews7/prameyanews7/index.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/1920px-Republic_Bharat_logo.svg.png" group-title="All",Republic Bharat
