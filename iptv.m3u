@@ -11,7 +11,7 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNN News18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" group-title="All",CNN News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="ET Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/ETNOW.png/revision/latest/scale-to-width-down/1000?cb=20230126171607" group-title="All",ET Now
-https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/f3200ff9-3280-4a57-8224-d1a9abf92219:TPE2/master.m3u8
+https://raw.githubusercontent.com/sarthak022/iptv/refs/heads/main/iptv.m3u
 #EXTINF:-1 tvg-id="India Today" tvg-logo="https://pbs.twimg.com/profile_images/1395253672678809601/s-kiJ9xn_400x400.png" group-title="All",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/India_tv_logo-en.png" group-title="All",India TV
