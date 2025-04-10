@@ -17,7 +17,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/India_tv_logo-en.png" group-title="All",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="KalingaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KalingaTV.jpg" group-title="All",KalingaTV
-https://server.thelegitpro.in/kalingatv/kalingatv/tracks-v1/index.fmp4.m3u8
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1920px-NDTV_logo.svg.png" group-title="All",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NDTV_India_Logo.svg/1920px-NDTV_India_Logo.svg.png" group-title="All",NDTV India
